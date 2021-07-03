@@ -1,0 +1,16 @@
+body{
+    background-color: darkgoldenrod;
+    color: lightyellow;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: inset 3px lightgreen;
+    width: 350px;
+    height: 300px;
+}
+.objects, #object_name, #object_accuracy{
+    color:greenyellow ;
+}
